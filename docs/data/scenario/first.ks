@@ -1,11 +1,11 @@
 *start
 
-[title name="走るか寝るかするメロスdayo"]
+[title name="走るか寝るかするメロス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「走るか寝るかするメロス!!!」[l][r]
 
 メロスは激怒した。[l][r]
 
